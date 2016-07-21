@@ -1,0 +1,18 @@
+Changelog for LLLContinued
+
+1.0.0	
+	Changes for 1.1.3 compatiblity
+		- updated included ModuleManager DLL 
+		- updated included Firespitter
+		- Updated LLL_CLS.cfg to addfollowing two lines to all
+		  MM patches for compatiblity with ConnectedLivingSpaces:
+			passableWhenSurfaceAttached = true
+			surfaceAttachmentsPassable = true
+		- Added LLL_FixLandingLeg.cfg  because of KSP/Unity issues with
+		  landing legs and wheels, they now use the generic 
+		  ModuleAnimateGeneric for the animations
+		- Deleted weapons parts.  If BDArmory is ever resurrected, these
+		  parts will either be included again, or added in a supplemental
+		  mod
+		- Added a .version file and MiniAVC.dll
+
