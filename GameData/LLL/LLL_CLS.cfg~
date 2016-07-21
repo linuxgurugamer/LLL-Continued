@@ -1,0 +1,1093 @@
+@PART[BERTY3]:NEEDS[ConnectedLivingSpace]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[EmberCockpit]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[InfilPod]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[MkVHog]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[MkVHogBridge]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[MkVHogLarge]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[MKVII2x1Cockpit]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[LLLBridgetest]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[MKVIICockpitLLL]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[MKVII4x2Cockpit]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[MkVIIICatfish]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[1x1hullnew]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[1x1xthirdhullnew]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[LLLCBMAnim]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+		passableWhenSurfaceAttached = true
+	}
+}
+
+
+@PART[LLLCBM]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+		passableWhenSurfaceAttached = true
+	}
+}
+
+@PART[LLLCBMThin]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+		passableWhenSurfaceAttached = true
+	}
+}
+
+@PART[LLLHatchdoor]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+		passableWhenSurfaceAttached = true
+	}
+}
+
+@PART[WalkwayOLD]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[walkwayhub]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+@PART[LLLWalkwayNEW]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[Windowsect]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+@PART[LLLCirc2b2H]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[LLLCirc2a2H]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+@PART[LLLCirc2b1H]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[LLLCirc2a1H]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+@PART[LLLCirc1a2H]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[LLLCirc1b2H]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+@PART[LLLCirc1b1H]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[LLLCirc1a1H]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[4x2SAS]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[4x2Weight]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[4x2fueltest]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[4x2RCSS]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[2x1hull]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[2x1xthirdhull]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[2x1hulltest]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[4x2newcargo]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[4x2newcargo2]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[4x2WhHousing]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[4to2Adaptor]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[4x2Bicoupler]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[4to2x1Adaptorv1]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[4to2x1Adaptorv2]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[4x2Probe]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[2x1LifeSupport]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[Windowsect]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[2x1Hollowhouse]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[Dual2x1hull]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[2x1newcargo]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[2x1newcargo2]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[2x2newcargo]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[2x2hull]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[4x2newcargo]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[4x2newcargo2]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[1to125Adaptor]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[2to1Adaptor0]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[2to1Adaptor1]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[2to1Adaptor2]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[2to1AdaptorOffCentre2]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[2to1AdaptorOffCentre]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[2to1AdaptorOffCentre1]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[2x1Bicoupler]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[2x1to2x2]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[2to25mCircAdaptor]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[2x1to1-25mAdaptor]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[2to2-5Adaptor]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[4x4newcargo]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[4x4newcargo5adapt]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+// Conditional ON until we have a hook for them.
+
+
+@PART[2x1droprampcargo]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[2x1Cargobed]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[LLL1x1building]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[LLL2x2building]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[PolyHab]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[PolyHab2]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[2x1KethaneConverter]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[2x1Greenhouse]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[Airlockdoors]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[LLL2x1dockingPort]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[LLLExtendableActivityMod]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[LLLGreenhouse]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[LLLGreenhousemid]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[LLLGreenhousesmall]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[LLLCentriHab]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[Solar2x1]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[3x1to1x1Adaptor0]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[3x1to1x1Adaptor1]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[3x1to1x1Adaptor2]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[3x1to1x1OffCentre0]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[3x1to1x1OffCentre1]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[3x1to1x1OffCentre2]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[3x1to2x1Adaptor0]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[3x1to2x1Adaptor1]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[3x1to2x1Adaptor2]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[3x1to2x1OffCentre0]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[3x1to2x1OffCentre1]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[3x1to2x1OffCentre2]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[3x1to2x1OffCentre0]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[3x1to2x1OffCentre1]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[3x1to2x1OffCentre2]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[4x1to1x1Adaptor0]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[4x1to1x1Adaptor1]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[4x1to1x1Adaptor2]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[4x1to1x1OffCentre0]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[4x1to1x1OffCentre1]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[4x1to1x1OffCentre2]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[4x1to2x1Adaptor0]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[4x1to2x1Adaptor1]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[4x1to2x1Adaptor2]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[4x1to2x1OffCentre0]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[4x1to2x1OffCentre1]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[4x1to2x1OffCentre2]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[4x1to3x1Adaptor0]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[4x1to3x1Adaptor1]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[4x1to3x1Adaptor2]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[4x1to3x1OffCentre0]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[4x1to3x1OffCentre1]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[4x1to3x1OffCentre2]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[2x1LogisticHub]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+//Following are passable, sort of, very tight fit.
+
+@PART[2x1TrkHousing1]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
+
+@PART[2x1WhHousing]:NEEDS[ConnectedLivingSpace]:HAS[!MODULE[ModuleConnectedLivingSpace]]
+{
+    MODULE
+	{
+		name = ModuleConnectedLivingSpace
+		passable = true
+	}
+}
