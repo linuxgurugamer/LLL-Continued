@@ -15,4 +15,5 @@ Changelog for LLLContinued
 		  parts will either be included again, or added in a supplemental
 		  mod
 		- Added a .version file and MiniAVC.dll
-
+1.0.1
+	Removed unnecessary Firespitter directories
