@@ -1,0 +1,114 @@
+FuelTank Patch  …
+- changed content compared to size of stock counterparts
+- changed mass & cost related to content and stock
+- added entryCost (cost*5)
+- reviewed FSfuelSwitch module:
+Fuel will now cost credits, wasn't calculated before, is now hardcoded
+as "tankCost", upscaled prices fit to upscaled stock counterparts.
+Should be a bit more expensive, because LLL tanks are lighter. I
+couldn't fix the scaled mass, "tankMass" won't work, so i did it over
+costs.
+- added structural option to all cubed tanks (not 2x1 spherical tank)
+- added Ore option on 1x1 tanks
+- some visual stripes/ pipes for karbonite, structural, ore
+- LLL_Scale_Exponents.cfg added for the scaled tankcost.
+
+Known issue:
+Downscaling will lead to ABSOLUTE SICK costs, especially when scaling
+Xenon. Thats a problem of Tweakscale and FSfuelSwitch. If FSfuelSwitch
+would work correct with fuelcosts, Tweakscale wouldn't go crazy with
+downscaling.
+
+
+
+Balance Batch  …
+Balancing of cost, mass, entrycost, mass, ressources &
+Fixes for attachrules, stock drag, maxtemp, crashtolerance for
+categories:
+- Engines
+- Command & Control
+- Coupling
+- Payload
+- Aero
+
+Other:
+- fixed Cargo bays nodes ID correction (but still broken)
+- fixed position of exhaust plume on 2x1Nuclear engine
+- removed unused ElectricCharge on some engines
+- removed "always on"-generator on nuclear engines in exchange of
+positive alternator generator
+
+
+
+Electrical Patch  …
+- all: cost, entrycost, mass, some attributes tweaked
+- TACLS boxes make now sense with amount. All three boxes hold almost
+same amount of kerbal days consumption.
+- ShroudPanel and batteries now work with Tweakscale.
+- Rework of Extractor Fan (Lack's Air Compression Generator). It's now
+IntakeAir generator like Wind Turbine, but less effective (also lighter)
+- Generator (+small) use now LFO, consumption compared to stock. Fit
+between the stock fuel generators. Bigger generator got small battery.
+- Solar panels are now more efficient, can be compared to stock solar
+panels, 2x1SolarPanel has a battery now
+
+- Salt reactor massive changes:
+- 120 ec/sec output
+- need Xenon input
+- has small Xenon tank
+- has battery
+- need a lot of cooling, 800W !!
+- efficiency is much more depending on cooling, than every other
+generator i know.
+F.e. 400 W cooling power = ~30% efficiency
+
+- Fission plant massive changes:
+- need Xenon input
+- has small Xenon tank
+- has battery
+- need cooling, 150W
+- efficiency is much more depending on cooling, than every other
+generator i know.
+F.e. 75 W cooling power = ~30% efficiency
+
+
+
+Utility Batch  …
+- rebalance of cost, entrycost, mass and some attributes
+
+Buggys fuel cell now consume LFO, got tanks for it.
+
+Category Structural Balance  …
+- balance in cost, entryCost, mass, some attachrules
+- many adapters and structural hull segments have now switch between
+blank structural and different fuel settings, depending on size...
+- ... in exchange, all these parts lost crew capacity, but for that next
+to normal crew hulls i ...
+- ... added a half sized, half flat cupola for one Kerbal, that fits on
+1x1 and higher hulls
+
+
+
+TACLifeSupport Fixes  …
+Greenhouse, water purifier, carbon extractor, 2x1LifeSupport (huge
+crate)
+- fixed codes for TACLS, works now
+- balanced techtree, cost, entryCost, mass, tags, bulkheadprofiles
+
+2x1lifesupport:
+- balanced content values ratio
+- own colored label for the box
+
+All parts ingame moved from standard category to custom category "Life
+Support" of CommunityCategoryKit (served with TACLS). No double entries.
+
+
+
+Ground Batch
+Changes:
+- balanced cost, entryCost, mass
+- added ModuleAnimateGeneric to Skid and UndersideLeg, removed patch file for that
+- disabled LargeWheel because of skin flicker and visual problems
+
+Note:
+None of the landing legs have leg functionality, just visual animation!
