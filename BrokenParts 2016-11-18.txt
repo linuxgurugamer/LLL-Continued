@@ -1,0 +1,60 @@
+LLL problematic parts
+date: 2016-11-18
+
+---------- Ground ----------
+
+\Parts\Utility\LandingLegs\UndersideLeg\part.cfg
+- collision mesh broken, part is flying
+- no working leg modules, just ModuleAnimateGeneric
+
+\Parts\Utility\LandingLegs\Skid\part.cfg
+- animation state switched, starts extended
+- no working leg modules, just ModuleAnimateGeneric
+- part disabled
+
+\Parts\Structural\2x1\DropDownRampLeg\2x1DropRampLeg.cfg
+- animation state switched, starts extended
+- no working leg modules, just ModuleAnimateGeneric
+
+\Parts\Utility\LandingLegs\UndersideLegSmall\part.cfg
+- no working leg modules, just ModuleAnimateGeneric
+
+\Parts\Utility\Largewheel\part.cfg
+- skin flicker, looks deformed on model
+- part disabled
+
+---------- Utility ----------
+
+\Parts\Utility\HatchDoor\part.cfg
+\Parts\Utility\Airlock\part.cfg
+\Parts\Structural\Building\BuildingDoor\part.cfg
+- Hatch obstructed. Collision mesh?
+- parts disabled
+
+\Parts\Structural\2x1\WheelHousing\2x1WhHousing.cfg
+\Parts\Structural\2x1\WheelHousing Long\Trackhousing.cfg
+\Parts\Structural\4x2\WheelHousing\4x2WhHousing.cfg
+- cylindric invisible border, where the wheels should be attached. Collision mesh?
+
+\Parts\Structural\TruckCab\TruckCab.cfg
+\Parts\Structural\TruckCab\TruckCabTwin.cfg
+- cylindric invisible border around cabin. Collision mesh?
+
+---------- Payload ----------
+
+\Parts\Structural\1x1\CargoBayLong\part.cfg
+\Parts\Structural\1x1\CargoBayShort\part.cfg
+\Parts\Structural\2x1\CargoBayLong\2x1Cargo.cfg
+\Parts\Structural\2x1\CargoBayShort\2x1Cargo2.cfg
+\Parts\Structural\2x1\DropDownRamp\2x1DropRamp.cfg
+\Parts\Structural\2x2\CargoBay\2x2Cargo.cfg - part disabled
+\Parts\Structural\4x2\CargoBayLong\4x2Cargo.cfg
+\Parts\Structural\4x2\CargoBayShort\4x2Cargo2.cfg
+\Parts\Structural\4x4\4x4Cargo.cfg - part disabled
+- impossible to attach on the inner bay surface, floating around a invisible cylindric border. Nodes can sometimes be used by smaller parts, but then not be detached. Collision mesh?
+
+---------- Structural ----------
+
+\Parts\Structural\2x1\EngineFairing\2x1EngineFairing.cfg
+\Parts\Structural\4x2\EngineFairing\4x2EngineFairing.cfg
+- Jettison module not working
