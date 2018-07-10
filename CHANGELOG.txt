@@ -23,3 +23,4 @@ Changelog for LLLContinued
 	Replaced Firespitter with IFS
 	Removed ModuleManager dll
 	Removed Firespitter plugins
+	Updated ModuleRCX to ModuleRCSFX and added in effects
