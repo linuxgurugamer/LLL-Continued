@@ -4,7 +4,7 @@ Changelog for LLLContinued
 	Changes for 1.1.3 compatiblity
 		- updated included ModuleManager DLL 
 		- updated included Firespitter
-		- Updated LLL_CLS.cfg to addfollowing two lines to all
+		- Updated LLL_CLS.cfg to add following two lines to all
 		  MM patches for compatiblity with ConnectedLivingSpaces:
 			passableWhenSurfaceAttached = true
 			surfaceAttachmentsPassable = true
@@ -17,3 +17,9 @@ Changelog for LLLContinued
 		- Added a .version file and MiniAVC.dll
 1.0.1
 	Removed unnecessary Firespitter directories
+
+1.2.0
+	Updated for 1.4
+	Replaced Firespitter with IFS
+	Removed ModuleManager dll
+	Removed Firespitter plugins
