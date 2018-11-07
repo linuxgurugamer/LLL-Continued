@@ -24,3 +24,7 @@ Changelog for LLLContinued
 	Removed ModuleManager dll
 	Removed Firespitter plugins
 	Updated ModuleRCX to ModuleRCSFX and added in effects
+
+1.2.1
+	Fixed broken engine fairings
+	Updated version for 1.5

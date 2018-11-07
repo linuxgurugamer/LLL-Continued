@@ -7,6 +7,3 @@ Module manager source is under a "CC share-alike license" under the term specifi
 
 The source code for this version is available here : https://github.com/sarbian/ModuleManager
 
-
-Firespitter included with permission of Snjo, details can be found here:
-http://forum.kerbalspaceprogram.com/index.php?/topic/22583-firespitter-propeller-plane-and-helicopter-parts-v71-may-5th-for-ksp-10/  
