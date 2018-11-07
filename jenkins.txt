@@ -30,7 +30,7 @@
 # 3:SOURCEFILE, DESTDIR
 3:LLL.version,GameData/LLL
 
-8:LLL-Extra
+7:LLL-Extra
 #
 # End of file
 #
