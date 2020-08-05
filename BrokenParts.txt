@@ -1,0 +1,18 @@
+LLL problematic parts
+date: 2020-07-24
+
+---------- Ground ----------
+
+\Parts\Structural\2x1\DropDownRampLeg\2x1DropRampLeg.cfg - 2x1droprampleg
+- no working leg modules, just ModuleAnimateGeneric
+
+
+
+---------- Structural ----------
+
+\Parts\Structural\2x1\EngineFairing\2x1EngineFairing.cfg - 2x1EngineFairing
+\Parts\Structural\4x2\EngineFairing\4x2EngineFairing.cfg - 4x2EngineFairing
+- Jettison module not working
+- what even is this part for though (rebuild like a thrust plate?)
+
+cockpit anim lights
