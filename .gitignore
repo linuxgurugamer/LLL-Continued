@@ -38,6 +38,5 @@ Thumbs.db
 
 #dotCover
 *.dotCover
-*.zip
 *~
 *.bak

@@ -30,7 +30,7 @@ set VERSIONFILE=%GAMEDIR%.version
 set LICENSE=License.txt
 set README=README.md
 
-set RELEASEDIR=d:\Users\jbb\release
+set RELEASEDIR=E:\Unity Projects\LLL
 set ZIP="c:\Program Files\7-zip\7z.exe"
 
 rem Copy files to GameData locations

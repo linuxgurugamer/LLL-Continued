@@ -1,4 +1,4 @@
 Squad/Parts/FuelTank/RCStankRadialLong/model.mu
 Squad/Parts/Structural/trussGirderAdapter/model.mu
-Squad/Parts/Utility/rcsBlockRV-105/rcs.dds
-Squad/Parts/Utility/rcsBlockRV-105/rcs.mu
+Squad/Parts/Utility/linearVernorRCS/Assets/linear_vernor_diffuse.dds
+Squad/Parts/Utility/linearVernorRCS/Assets/linearRCS.mu
