@@ -42,5 +42,4 @@ Thumbs.db
 *.bak
 
 Source/
-GameData\LLL\Parts\@thumbs\
-GameData\LLL-Extra\Parts\@thumbs
+../@thumbs
