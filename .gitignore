@@ -40,3 +40,7 @@ Thumbs.db
 *.dotCover
 *~
 *.bak
+
+Source/
+GameData\LLL\Parts\@thumbs\
+GameData\LLL-Extra\Parts\@thumbs
