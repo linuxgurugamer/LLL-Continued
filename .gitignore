@@ -40,3 +40,6 @@ Thumbs.db
 *.dotCover
 *~
 *.bak
+
+Source/
+**/@thumbs/
