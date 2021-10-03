@@ -24,27 +24,21 @@ rem LICENSE is the license file
 rem README is the readme file
 
 set GAMEDIR=LLL
-set GAMEDIR2=LLL-Extra
 set GAMEDATA="GameData\"
 set VERSIONFILE=%GAMEDIR%.version
 set LICENSE=License.txt
 set README=README.md
 
-set RELEASEDIR=E:\Unity Projects\LLL
+set RELEASEDIR=d:\Users\jbb\release
 set ZIP="c:\Program Files\7-zip\7z.exe"
 
 rem Copy files to GameData locations
 
 copy /Y "%1%2" "%GAMEDATA%\%GAMEDIR%\Plugins"
 copy /Y %VERSIONFILE% %GAMEDATA%\%GAMEDIR%
-copy /Y %VERSIONFILE% %GAMEDATA%\%GAMEDIR2%
-copy /Y ..\MiniAVC.dll %GAMEDATA%\%GAMEDIR%
-copy /Y ..\MiniAVC.dll %GAMEDATA%\%GAMEDIR2%
 
 if "%LICENSE%" NEQ "" copy /y  %LICENSE% %GAMEDATA%\%GAMEDIR%
 if "%README%" NEQ "" copy /Y %README% %GAMEDATA%\%GAMEDIR%
-if "%LICENSE%" NEQ "" copy /y  %LICENSE% %GAMEDATA%\%GAMEDIR2%
-if "%README%" NEQ "" copy /Y %README% %GAMEDATA%\%GAMEDIR2%
 
 rem Get Version info
 

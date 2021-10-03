@@ -28,3 +28,39 @@ Changelog for LLLContinued
 1.2.1
 	Fixed broken engine fairings
 	Updated version for 1.5
+
+
+1.4.0
+	Thanks to github/forum user @hypodronic for all of this:
+		Here's an overview of the important stuff I've fixed, tweaked or added:
+		
+		added:
+		bulkhead profiles
+		tags
+		2x1 to 1x1 adaptors new texture
+		a lot of part descriptions
+		Kerbnet support for probes
+		
+		tweaked:
+		exotic adaptors and tanks, life support, and building parts moved to Extra
+		some textures
+		part naming
+		interstage fairing part now works a bit like a thrust plate instead of the weird functionality before
+		a lot of part descriptions
+		some tech tree locations and prices
+		
+		fixed:
+		docking ports
+		engine plumes
+		flag materials (and various other model tweaks)
+		most tanks and adaptors IFS settings
+		CLS, Karbonite and even Kethane support should work
+		
+		
+		
+		
+		
+		
+		
+		
+		
