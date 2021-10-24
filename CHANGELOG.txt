@@ -57,9 +57,11 @@ Changelog for LLLContinued
 			CLS, Karbonite and even Kethane support should work
 		
 		
-		
-		
-		
+1.4.0.1
+	Fixed the following issues:
+		Missing textures on "Lack's Carbon extractor" and "Lack's water purifier" 
+		Missing running sounds on "Sobek", "Junit" and "Hathor" engines 
+		Added patch to allow both Kethane and Karbonte to be used in the IFS Switch
 		
 		
 		
