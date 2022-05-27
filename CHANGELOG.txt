@@ -63,6 +63,7 @@ Changelog for LLLContinued
 		Missing running sounds on "Sobek", "Junit" and "Hathor" engines 
 		Added patch to allow both Kethane and Karbonte to be used in the IFS Switch
 		
-		
-		
+1.4.0.2
+	Thanks to @hypodronic for this:
+		Added entryCost to many parts, tweaked some TechRequired and part costs
 		
