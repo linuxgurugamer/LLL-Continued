@@ -67,3 +67,6 @@ Changelog for LLLContinued
 	Thanks to @hypodronic for this:
 		Added entryCost to many parts, tweaked some TechRequired and part costs
 		
+1.4.1
+	Localized the part cfg files
+	Updated version file to  use Github for new version info
