@@ -66,4 +66,8 @@ Changelog for LLLContinued
 1.4.0.2
 	Thanks to @hypodronic for this:
 		Added entryCost to many parts, tweaked some TechRequired and part costs
+
+1.5.0
+	Added optional patch using PatchManager to add support for CryoTanks
+	Updated version file to use GitHub for new version info
 		
