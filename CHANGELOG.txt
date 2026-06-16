@@ -71,3 +71,6 @@ Changelog for LLLContinued
 	Added optional patch using PatchManager to add support for CryoTanks
 	Updated version file to use GitHub for new version info
 		
+1.4.1
+	Localized the part cfg files
+	Updated version file to  use Github for new version info
